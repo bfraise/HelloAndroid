@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="0dp"
-        android:text="Udacity"
+        android:text="@string/udacity"
         android:layout_weight="1"
         android:id="@+id/udacity_text_view"
         android:textSize="24sp"
@@ -26,7 +26,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="0dp"
-        android:text="www.udacity.com"
+        android:text="@string/www_udacity_com"
         android:layout_weight="1"
         android:id="@+id/website_text_view"
         android:textSize="24sp"
@@ -38,7 +38,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="0dp"
-        android:text="2465 Latham St"
+        android:text="@string/_2465_latham_st"
         android:layout_weight="1"
         android:id="@+id/addess_text_view"
         android:textSize="24sp"
@@ -48,7 +48,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="0dp"
-        android:text="Mountain View, CA 94043"
+        android:text="@string/mountain_view_ca_94043"
         android:layout_weight="1"
         android:id="@+id/addresstwo_text_view"
         android:textSize="24sp"
@@ -58,7 +58,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="0dp"
-        android:text="650-555-5555"
+        android:text="@string/_650_555_5555"
         android:layout_weight="1"
         android:id="@+id/number_text_view"
         android:textSize="24sp"
